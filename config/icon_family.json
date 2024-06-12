@@ -1,0 +1,14 @@
+{
+    "poker-face": {
+        "middle": "♦",
+        "leaf": "♠"
+    },
+    "weather": {
+        "middle": "☀",
+        "leaf": "☁"
+    },
+    "star": {
+        "middle": "★",
+        "leaf": "✦"
+    }
+}
